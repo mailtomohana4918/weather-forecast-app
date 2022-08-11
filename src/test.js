@@ -1,2 +1,0 @@
-const location ={"name":"London","region":"City of London, Greater London","country":"United Kingdom","lat":51.52,"lon":-0.11,"tz_id":"Europe/London","localtime_epoch":1660135154,"localtime":"2022-08-10 13:39"}
-console.log("hi"+location.name)
