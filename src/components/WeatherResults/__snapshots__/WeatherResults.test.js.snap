@@ -1,0 +1,55 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`WeatherResults Component renders as expected 1`] = `
+<DocumentFragment>
+  <div
+    class="MuiBox-root MuiBox-root-2 makeStyles-boxContainer-1"
+  >
+    <div
+      class="MuiPaper-root MuiCard-root MuiPaper-elevation1 MuiPaper-rounded"
+      sx="[object Object]"
+    >
+      <img
+        alt="weather"
+        class="MuiCardMedia-root MuiCardMedia-media MuiCardMedia-img"
+        height="140"
+        src="weather.jpg"
+      />
+      <div
+        class="MuiCardContent-root"
+      >
+        <h5
+          class="MuiTypography-root MuiTypography-h5 MuiTypography-gutterBottom"
+        >
+          Weather Summary
+        </h5>
+        <p
+          class="MuiTypography-root MuiTypography-body2"
+        >
+          Weather: sunny
+        </p>
+        <p
+          class="MuiTypography-root MuiTypography-body2"
+        >
+          Country: United Kingdom
+        </p>
+        <p
+          class="MuiTypography-root MuiTypography-body2"
+        >
+          City: London
+        </p>
+        <p
+          class="MuiTypography-root MuiTypography-body2"
+        >
+          Local Time: 
+        </p>
+        <p
+          class="MuiTypography-root MuiTypography-body2"
+        >
+          Temperature: 25
+        </p>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;
